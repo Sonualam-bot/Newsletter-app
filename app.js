@@ -76,8 +76,4 @@ app.listen(process.env.PORT, function () {
 });
 
 
-//api key
-//33a8e6c94575eb8b7e950bb1618f53b9-us9
 
-// Unique id
-// 5049e743a5
